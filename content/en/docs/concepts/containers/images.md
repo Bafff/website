@@ -111,7 +111,7 @@ Credentials can be provided in several ways:
     - only pods which provide own keys can access the private registry
   - Vendor-specific or local extensions
     - if you're using a custom node configuration, you (or your cloud
-      provider) can implement your mechanism for authenticating the node
+      provider) can implement a mechanism for authenticating the node
       to the container registry.
 
 These options are explained in more detail below.
